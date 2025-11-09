@@ -60,7 +60,3 @@ Feel free to reach out:
 - Phone: +91 94253 52270
 
 If you'd like, I can add links to my LinkedIn profile, portfolio, or highlight selected GitHub projects here — tell me the URLs and I will update the README.
-
----
-
-Want this README expanded (projects, selected talks, public articles, or sample architecture diagrams)? Say which sections you'd like and I will add them.
