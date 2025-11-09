@@ -1,8 +1,5 @@
 Abhishek Sanghvi
 
-+91 94253 52270
-
-Email: <abhi.mit.j@gmail.com>
 
 **Profile Summary:**
 
